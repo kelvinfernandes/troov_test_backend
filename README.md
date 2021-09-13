@@ -21,3 +21,6 @@ localhost/5500/posts/:id :  avec la méthode post pour modifier un objet selon s
 localhost/5500/posts/:id :avec la méthode post pour supprimer un objet selon son id passé en paramètre
 
 
+Lien pour l'interface en Nuxt JS: https://github.com/kelvinfernandes/troov_test
+
+
