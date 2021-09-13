@@ -6,7 +6,7 @@
 <br/><br/> 
 DB: "mongodb+srv://kelvin:Kmonteiro98@cluster0.yspv3.mongodb.net/troov_test"
 <br><br>
--pour avoir accès au coté backend de l'application vous devez télécharger troov_test_backend.
+-pour avoir accès au côté backend de l'application vous devez télécharger troov_test_backend.
 sur  troov_test_backend vous pouvez ajouter, modifier, afficher les objets.
 vous pouvez vous inscrire et aussi vous connecter.
 Le mot de passe est sécurisé avec bcrypt.
